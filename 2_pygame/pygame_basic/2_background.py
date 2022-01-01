@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Nado Game") # 게임 이름
 
 # 배경 이미지 불러오기
-background = pygame.image.load("C:/Users/hooni/Documents/pythonworkspace/2/pygame_basic/background.png")
+background = pygame.image.load("C:/Users/hooni/Documents/coding/2/pygame_basic/background.png")
 
 # 이벤트 루프 (파이썬은 행동이 있는 이벤트 루프가 있어야 창이 자동적으로 꺼지지 않음)
 running = True # 게임이 진행중인가?

@@ -81,7 +81,7 @@ print('저는 "나도코딩"입니다.') # 큰, 작은 따음표로 구분 가�
 print("저는 \"나도코딩\"입니다.") # \로 상관없이 사용 가능
 
 # \\ : 문장 내에서 \
-print("C:\\Users\\hooni\\Documents\\pythonworkspace>")
+print("C:\\Users\\hooni\\Documents\\coding>")
 
 # \r : 커서를 맨 앞으로 이동
 print("Red Apple\rPine") # \r 뒤에 문자의 수 만큼 바꿈

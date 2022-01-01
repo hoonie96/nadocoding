@@ -21,7 +21,7 @@ root.geometry("640x480") # 가로 * 세로
 
 
 # 열기, 저장 파일 이름
-os.chdir("C:/Users/hooni/Documents/pythonworkspace/nado_coding/3_gui_basic")
+os.chdir("C:/Users/hooni/Documents/coding/nadocoding/3_gui_basic")
 
 filename = "mynote.txt"
 

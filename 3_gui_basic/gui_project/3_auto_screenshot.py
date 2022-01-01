@@ -2,7 +2,7 @@ import os
 import time
 from PIL import ImageGrab # Python Image Library
 
-os.chdir("C:/Users/hooni/Documents/pythonworkspace/nado_coding/3_gui_basic/gui_project")
+os.chdir("C:/Users/hooni/Documents/coding/nadocoding/3_gui_basic/gui_project")
 
 time.sleep(5) # 5초 대기 : 사용자가 준비하는 시간
 

@@ -10,7 +10,7 @@ root.title("Nado GUI")
 def add_file():
     files = filedialog.askopenfilenames(title="이미지 파일을 선택하세요", \
         filetypes=(("PNG 파일", "*.png"), ("모든 파일", "*.*")), \
-        initialdir=r"C:\Users\hooni\Documents\pythonworkspace\nado_coding\2_pygame\pygame_project\images")
+        initialdir=r"C:\Users\hooni\Documents\coding\nadocoding\2_pygame\pygame_project\images")
         # 최초에 C:/ 경로로 보여줌 / r 을 붙이면 주소 string 이 그래도 쓰여짐
         # filetpyes - 이름은 PNG 파일이고 실제로는 모든 파일명에 PNG 의 확장자로 끝나는 목록만 보여줌
 

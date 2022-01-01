@@ -18,7 +18,7 @@ btn4.pack()
 btn5 = Button(root, fg="red", bg="yellow", text="버튼5") # fg = foreground = 글자 색깔, bg = background = 배경 색깔
 btn5.pack()
 
-photo = PhotoImage(file="nado_coding/3_gui_basic/img.png")# 파일에 해당 하는 것을 불러와서 'photo' 로 저장해줌
+photo = PhotoImage(file="nadocoding/3_gui_basic/img.png")# 파일에 해당 하는 것을 불러와서 'photo' 로 저장해줌
 btn6 = Button(root, image=photo)
 btn6.pack()
 

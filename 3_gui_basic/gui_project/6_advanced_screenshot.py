@@ -3,7 +3,7 @@ import time
 import keyboard
 from PIL import ImageGrab
 
-os.chdir("C:/Users/hooni/Documents/pythonworkspace/nado_coding/3_gui_basic/gui_project/images")
+os.chdir("C:/Users/hooni/Documents/coding/nadocoding/3_gui_basic/gui_project/images")
 
 def screenshot():
     # 2020년 6월 1일 10시 20분 30 초 -> _20200601_102030
