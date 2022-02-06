@@ -50,21 +50,23 @@
 # 다음 부동산 매물 이 더이상 제공 안하는 관계로 역대 EPL 시즌 결과를 사용
 
 # [조회 조건]
-# 1. http://daum.net 접속
-# 2. '송파 헬리오시티' 검색
-# 3. 다음 부동산 부분에 나오는 결과 정보
+# 1. https://en.wikipedia.org/wiki/List_of_Premier_League_seasonst 접속
+# 2. 'List of Premier League seasons' 검색
+# 3. 나오는 결과 정보 조회
 
 # [출력 결과]
 # ========== 시즌 xxxx-xx ==========
-# 1. 거래 : 매매
-# 2. 면적 : 84/59
-# 3. 가격 : 165,000 (만원)
-# 4. 동 : 214동
-# 5. 층 : 고/23
+# 1. 우승팀 : ...
+# 2. 챔스진출팀 : ...
+# 3. 유로파진출팀 : ...
+# 4.강등팀 : ...
+# 5. 승격팀 : ...
+# 6. 골든부츠 : ...
+# 7. 골 수 : ...
 # ========== 시즌 xxxx-xx ==========
 #     ...
 
-import os
+# import os
 import requests
 from bs4 import BeautifulSoup
 
